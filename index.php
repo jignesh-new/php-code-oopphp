@@ -2,11 +2,11 @@
 <table class="table table-dark">
   <thead>
     <tr>
-      <th scope="col">First1</th>
-      <th scope="col">Last1</th>
-      <th scope="col">Email1</th>
-      <th scope="col">Phone No1</th>
-      <th scope="col">Delete1</th>
+      <th scope="col">hello</th>
+      <th scope="col">Last1hello/th>
+      <th scope="col">Email1 hello</th>
+      <th scope="col">Phone No1 hello</th>
+      <th scope="col">Delete1 hello</th>
     </tr>
   </thead>
   <tbody id="fetchdata">
