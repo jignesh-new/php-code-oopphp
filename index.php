@@ -2,10 +2,10 @@
 <table class="table table-dark">
   <thead>
     <tr>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Email</th>
-      <th scope="col">Phone No</th>
+      <th scope="col">First1</th>
+      <th scope="col">Last1</th>
+      <th scope="col">Email1</th>
+      <th scope="col">Phone No1</th>
       <th scope="col">Delete</th>
     </tr>
   </thead>
