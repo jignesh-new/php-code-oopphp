@@ -6,7 +6,7 @@
       <th scope="col">Last1</th>
       <th scope="col">Email1</th>
       <th scope="col">Phone No1</th>
-      <th scope="col">Delete</th>
+      <th scope="col">Delete1</th>
     </tr>
   </thead>
   <tbody id="fetchdata">
