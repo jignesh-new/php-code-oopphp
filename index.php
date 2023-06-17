@@ -2,11 +2,11 @@
 <table class="table table-dark">
   <thead>
     <tr>
-      <th scope="col">First1 master Changes</th>
-      <th scope="col">Last1 master Changes</th>
-      <th scope="col">Email1 master Changes</th>
-      <th scope="col">Phone No1 master Changes</th>
-      <th scope="col">Delete changed</th>
+      <th scope="col"> new desktop jhdsd</th>
+      <th scope="col">Last1 new desktop dsds</th>
+      <th scope="col">Email1  new desktop dsdd</th>
+      <th scope="col">Phone No1  new desktop dsdsd</th>
+      <th scope="col">Delete1  new desktop</th>
     </tr>
   </thead>
   <tbody id="fetchdata">
