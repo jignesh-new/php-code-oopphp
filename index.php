@@ -2,10 +2,10 @@
 <table class="table table-dark">
   <thead>
     <tr>
-      <th scope="col"> new desktop</th>
-      <th scope="col">Last1 new desktop</th>
-      <th scope="col">Email1  new desktop</th>
-      <th scope="col">Phone No1  new desktop</th>
+      <th scope="col"> new desktop jhdsd</th>
+      <th scope="col">Last1 new desktop dsds</th>
+      <th scope="col">Email1  new desktop dsdd</th>
+      <th scope="col">Phone No1  new desktop dsdsd</th>
       <th scope="col">Delete1  new desktop</th>
     </tr>
   </thead>
